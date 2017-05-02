@@ -1,6 +1,6 @@
 {
   "name": "nodinx-cluster",
-  "version": "1.6.2",
+  "version": "1.6.3",
   "description": "cluster manager for nodinx",
   "main": "index.js",
   "scripts": {
